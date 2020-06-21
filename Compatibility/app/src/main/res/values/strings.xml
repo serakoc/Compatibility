@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compatibility</string>
+    <string name="nom_1">Nom 1 :</string>
+    <string name="name_1">name 1</string>
+    <string name="nom_2">Nom 2 :</string>
+    <string name="name_2">name 2</string>
+    <string name="logo_validation">logo_validation</string>
+</resources>
